@@ -33,4 +33,4 @@ A data pipeline that intakes raw .run files from the Mega Crit Studios game Slay
 ## License
 MIT
 
-Copyright (c) 4/22/22 Jess Schueler
+Copyright (c) 5/20/22 Jess Schueler
