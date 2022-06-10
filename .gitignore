@@ -1,12 +1,4 @@
-#Data
-./defect/*
-./watcher/*
-./the_silent/*
-./ironclad/*
-*.csv
-*.json
-*.run
-*.txt
+
 
 # General
 .DS_Store
