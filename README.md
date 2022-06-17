@@ -2,7 +2,7 @@
 
 ### by Jess Schueler
 
-#### *Using Python, pandas, and big query to explore one months worth of personal Slay the Spire runs*
+#### *Using Python, pandas, and big query to explore three months worth of personal Slay the Spire runs*
 
 ## Technologies Used
 * Python
